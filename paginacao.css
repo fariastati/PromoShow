@@ -1,8 +1,0 @@
-@charset "UTF-8";
-
-div#paginacao {
-  left: 50%;
-  margin-left: -130px;
-  position: absolute;
-  width: 270px;
-}
